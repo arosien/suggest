@@ -1,0 +1,9 @@
+Your mission is to write a keyword suggestion system (as you may have seen
+on a search engine page as you type your query). You're only writing the
+server-side component whose input is a (partial) query and outputs suggestions. 
+
+You must:
+
+* Make SuggestTest pass.
+* Explain your implementation of Suggestor: algorithms, pros/cons of your choices.
+* Hypothesize how to your solution would work "in the real world" with real traffic.
